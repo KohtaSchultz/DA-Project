@@ -14,7 +14,7 @@ I'll put things from my Data Analytics Career Accel Studio project here.
   I found a BigQuery dataset from the nhtsa that recorded the number of accidents, causes, dates, times, and other details relating to car accidents; with datasets going back to 2015.
   
 "Consider data ethics"
-  It's important to respect the persons that make up this data. They aren't just numbers, and every person has had their lives affected by motor vehicle collisions in one way or another. Peoples' privacy is also important to protect. Although this dataset doesn't give any names out, it's imperative to keep in mind in future projects. Transparency with collecting, analyzing, and explaining findings from data while not overstepping legal and business laws/rules are another way; though not limited to these examples, to conceptualize data.
+  It's important to respect the persons that make up this data. They aren't just numbers, and every person has had their lives affected by motor vehicle collisions in one way or another. Peoples' privacy is also important to protect. Although this dataset doesn't give any names out, it's imperative to keep in mind in future projects. Transparency with collecting, analyzing, and explaining findings from data while not overstepping legal and business laws/rules are another way; though not limited to these examples, to exercise data ethics.
   
 # Stage 2 - Data Preparation
 "Learn about the data, check for gaps, and identify datasets that may be useful"
