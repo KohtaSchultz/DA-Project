@@ -5,10 +5,10 @@ I'll put things from my Data Analytics Career Accel Studio project here.
   Both Kaggle and Analytics Hub on BigQuery have datasets put together. I've decided to pull a dataset from BigQuery since it supports larger datasets, and I'm able to access a multitude of other datasets if I so choose.
   
 "Frame the problem" (Describe the problem in my own words)
-  
+  Traffic collisions are a cause of personal injury and financial hardship.
   
 "Develop initial hypothesis"
-  People were less likely to get into car accidents per 10,000 miles driven at the begining of the pandemic.
+  There were fewer car accidents per capita in states with stricter lockdown rules at the begining of the pandemic.
   
 "Identify potential data sources"
   I found a BigQuery dataset from the nhtsa that recorded the number of accidents, causes, dates, times, and other details relating to car accidents; with datasets going back to 2015.
