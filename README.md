@@ -31,7 +31,9 @@
 "Learn about the data, check for gaps, and identify datasets that may be useful"
  
 > "Identify the data inputs for analysis and perform the migration"
-  Narrowed down both datasets to show what I need. Migrated results to deepnote. Dropped Mexico City from the congestion dataset and all but 7 in the accident dataset.
+
+  * Narrowed down both datasets to show what I need. Migrated results to deepnote. Dropped Mexico City from the congestion dataset and all but 7 in the accident dataset.
+ 
 > "Prepare data for analysis - Clean data, normalize datasets"
 
 ![7_cities_accidents csv](https://user-images.githubusercontent.com/114529109/209414465-973b2cd7-e2a4-40e5-9886-0f3bfb27ed07.png)
