@@ -1,5 +1,7 @@
 # DA-Project
 > I'll put things from my Data Analytics Career Accel Studio project here.
+
+  [Deepnote](https://deepnote.com/workspace/uni-b780-ef93fdef-c706-47b3-b054-4b4a1e6442fe/project/NU-project-be108f48-4df2-4c72-9193-d5ea684325ba/notebook/Notebook%201-ff9ba100ee414f2ab5dfee49f8f05310)
 # Stage 1 - Discovery
 
 > "Assess the available resources":
