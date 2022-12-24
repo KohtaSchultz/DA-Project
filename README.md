@@ -4,7 +4,7 @@ I'll put things from my Data Analytics Career Accel Studio project here.
 "Assess the available resources":
   Both Kaggle and Analytics Hub on BigQuery have datasets put together. I've decided to pull a dataset from BigQuery since it supports larger datasets, and I'm able to access a multitude of other datasets if I so choose.
   * Figure out how to link the datasets in a hyperlink *
-  https://console.cloud.google.com/bigquery?project=stalwart-topic-372019&ws=!1m18!1m4!4m3!1sbigquery-public-data!2scovid19_google_mobility!3smobility_report!1m4!4m3!1sbigquery-public-data!2scovid19_geotab_mobility_impact!3scity_congestion!1m3!8m2!1s969132371377!2s12eb8ac73aab45439c9e07cfdbb3e4da!1m3!8m2!1s969132371377!2s443349a901e64a429d62e942433449b0#L
+  [congestion dataset](https://console.cloud.google.com/bigquery?project=stalwart-topic-372019&ws=!1m18!1m4!4m3!1sbigquery-public-data!2scovid19_google_mobility!3smobility_report!1m4!4m3!1sbigquery-public-data!2scovid19_geotab_mobility_impact!3scity_congestion!1m3!8m2!1s969132371377!2s12eb8ac73aab45439c9e07cfdbb3e4da!1m3!8m2!1s969132371377!2s443349a901e64a429d62e942433449b0)
 "Frame the problem" (Describe the problem in my own words)
   Traffic collisions are a cause of personal injury and financial hardship.
   
