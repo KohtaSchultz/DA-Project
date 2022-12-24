@@ -20,10 +20,11 @@ I'll put things from my Data Analytics Career Accel Studio project here.
 "Learn about the data, check for gaps, and identify datasets that may be useful"
   Found a couple useful datasets on BigQuery: bigquery-public-data.nhtsa_traffic_fatalities. accident_2020 and bigquery-public-data.covid19_geotab_mobility_impact.city_congestion. Will update to include links soon.
 "Identify the data inputs for analysis and perform the migration"
-  Narrowed down both datasets to show what I need. Migrated results to deepnote.
+  Narrowed down both datasets to show what I need. Migrated results to deepnote. Dropped Mexico City from the congestion dataset and all but 7 in the accident dataset.
 "Prepare data for analysis - Clean data, normalize datasets"
-![atlanta_congestion_2020_v3](https://user-images.githubusercontent.com/114529109/209221602-e67528e2-b3cc-4e0b-8aa2-c56a3a9bd7f4.png)
-![crashes_in_atlanta_v4](https://user-images.githubusercontent.com/114529109/209221638-08edf4ee-a545-4b77-8d5a-ced776ef1eb6.png)
+![7_cities_accidents csv](https://user-images.githubusercontent.com/114529109/209414465-973b2cd7-e2a4-40e5-9886-0f3bfb27ed07.png)
+![7_cities_cong](https://user-images.githubusercontent.com/114529109/209414469-5ebfde53-57c9-4412-ba97-b092fb848704.png)
+
 
 # Stage 3 - Data Analysis
 "Compare different models for the analysis"
