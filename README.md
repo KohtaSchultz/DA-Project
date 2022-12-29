@@ -42,6 +42,9 @@
 
 ![7_cities_cong](https://user-images.githubusercontent.com/114529109/209414469-5ebfde53-57c9-4412-ba97-b092fb848704.png)
 
+![Screenshot 2022-12-26 135557](https://user-images.githubusercontent.com/114529109/210015659-6aa575ef-f762-472d-94b3-b672fe97e9b2.png)
+
+![Screenshot 2022-12-26 135538](https://user-images.githubusercontent.com/114529109/210015668-786684c6-9da3-4216-9a8c-df06df033b4d.png)
 
 # Stage 3 - Data Analysis
 "Compare different models for the analysis"
