@@ -8,9 +8,9 @@
 > 
   * Both Kaggle and Analytics Hub on BigQuery have datasets put together. I've decided to pull a dataset from BigQuery since it supports larger datasets, and       I'm able to access a multitude of other datasets if I so choose.
   
-  [congestion dataset](https://console.cloud.google.com/bigquery?project=stalwart-topic-372019&ws=!1m18!1m4!4m3!1sbigquery-public-data!2scovid19_google_mobility!3smobility_report!1m4!4m3!1sbigquery-public-data!2scovid19_geotab_mobility_impact!3scity_congestion!1m3!8m2!1s969132371377!2s12eb8ac73aab45439c9e07cfdbb3e4da!1m3!8m2!1s969132371377!2s443349a901e64a429d62e942433449b0)
+  [congestion dataset](https://console.cloud.google.com/bigquery?_ga=2.94770396.1396421026.1672342626-1315232807.1672342626&_gac=1.243008950.1672342697.EAIaIQobChMI8Yi_5Mmf_AIVmNOGCh1YogRHEAAYASAAEgJRGvD_BwE&pli=1&project=stalwart-topic-372019&ws=!1m5!1m4!4m3!1sbigquery-public-data!2scovid19_geotab_mobility_impact!3scity_congestion)
   
-  [accident dataset](https://console.cloud.google.com/bigquery?project=stalwart-topic-372019&ws=!1m18!1m4!4m3!1sbigquery-public-data!2scovid19_google_mobility!3smobility_report!1m4!4m3!1sbigquery-public-data!2snhtsa_traffic_fatalities!3s%20accident_2020!1m3!8m2!1s969132371377!2s12eb8ac73aab45439c9e07cfdbb3e4da!1m3!8m2!1s969132371377!2s443349a901e64a429d62e942433449b0)
+  [accident dataset](https://console.cloud.google.com/bigquery?_ga=2.94770396.1396421026.1672342626-1315232807.1672342626&_gac=1.243008950.1672342697.EAIaIQobChMI8Yi_5Mmf_AIVmNOGCh1YogRHEAAYASAAEgJRGvD_BwE&pli=1&project=stalwart-topic-372019&ws=!1m5!1m4!4m3!1sbigquery-public-data!2snhtsa_traffic_fatalities!3s%20accident_2020)
   
 > "Frame the problem" (Describe the problem in my own words)
 
