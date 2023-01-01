@@ -38,14 +38,7 @@
  
 > "Prepare data for analysis - Clean data, normalize datasets"
 
-![7_cities_accidents csv](https://user-images.githubusercontent.com/114529109/209414465-973b2cd7-e2a4-40e5-9886-0f3bfb27ed07.png)
-
-![7_cities_cong](https://user-images.githubusercontent.com/114529109/209414469-5ebfde53-57c9-4412-ba97-b092fb848704.png)
-
 Data cleaning in excel. Changed date formatting and city_name capitalization in both datasets, respectively. This helps python in combining the datasets.
-![Screenshot 2022-12-26 135557](https://user-images.githubusercontent.com/114529109/210015659-6aa575ef-f762-472d-94b3-b672fe97e9b2.png)
-
-![Screenshot 2022-12-26 135538](https://user-images.githubusercontent.com/114529109/210015668-786684c6-9da3-4216-9a8c-df06df033b4d.png)
 
 # Stage 3 - Data Analysis
 "Compare different models for the analysis"
