@@ -42,9 +42,20 @@ Data cleaning in excel. Changed date formatting and city_name capitalization in 
 
 # Stage 3 - Data Analysis
 "Compare different models for the analysis"
+
+> Used a variety of different libraries for the analysis, whether it's for inferential statistics, visualization. or descriptive statistics. Pandas, plotly, seaborn, matplotlib are some libraries used. Of those, I created all kinds of scatterplots, bar charts, and a heatmap for different angles of inspecting the data.
+
 "Identify models/techniques/tools to analyze the data"
+
+> As stated above, for the descriptive statistics, I didn't utilize any libraries, just a few simple commands in the shell. For visualization, I utilized the aforementioned libraries to create mostly bar and scatterplots. For inferential statistics, I installed statsmodels to create a linear regression line. A pairplot, a replot, and a heatmap to determine if my hypothesis is correct.
+
 "Ensure the analytical techniques will meet the project requirements"
+
+> After consulting with my professor, she affirmed that my techniques surpass the requirements, especially since she was unable to help for a majority of the project due to illnes and holidays.
+
 "Execute the data analysis using models/techniques/tools identified"
 # Stage 4 - Result Communication
 "Create a set of presentation slides and insert graphical representations to show the results of the data analysis"
 Present the project
+
+[slideshow](https://slides.com/kohta)
